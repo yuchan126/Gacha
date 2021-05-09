@@ -14,7 +14,26 @@
 		27109BDF2640F90100CEF366 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 27109BDE2640F90100CEF366 /* Assets.xcassets */; };
 		27109BE22640F90100CEF366 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 27109BE02640F90100CEF366 /* LaunchScreen.storyboard */; };
 		27109BED2640F90200CEF366 /* Game_techTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27109BEC2640F90200CEF366 /* Game_techTests.swift */; };
-		27109BF82640F90200CEF366 /* Game_techUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27109BF72640F90200CEF366 /* Game_techUITests.swift */; };
+		272FE77C2648087D006F026F /* oyama2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 272FE7792648087C006F026F /* oyama2.jpg */; };
+		272FE77D2648087D006F026F /* sakamoto3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 272FE77A2648087C006F026F /* sakamoto3.jpg */; };
+		272FE77E2648087D006F026F /* marte2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 272FE77B2648087C006F026F /* marte2.jpg */; };
+		272FE78526480887006F026F /* kinami4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 272FE78226480887006F026F /* kinami4.jpg */; };
+		272FE78626480887006F026F /* itohara5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 272FE78326480887006F026F /* itohara5.jpg */; };
+		272FE78726480887006F026F /* itoi2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 272FE78426480887006F026F /* itoi2.jpg */; };
+		272FE78C2648088B006F026F /* fujinami3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 272FE78B2648088B006F026F /* fujinami3.jpg */; };
+		272FE79126480970006F026F /* tigers.title.gif in Resources */ = {isa = PBXBuildFile; fileRef = 272FE79026480970006F026F /* tigers.title.gif */; };
+		272FE79C26480A02006F026F /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 272FE79B26480A02006F026F /* icon.png */; };
+		2731411526440B1E008CDC6A /* satoteru4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2731411126440B1E008CDC6A /* satoteru4.jpg */; };
+		2731411626440B1E008CDC6A /* chikamoto4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2731411226440B1E008CDC6A /* chikamoto4.jpg */; };
+		2731411726440B1E008CDC6A /* gunkel4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2731411326440B1E008CDC6A /* gunkel4.jpg */; };
+		2731411C26440BF8008CDC6A /* haikei.red.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2731411B26440BF8008CDC6A /* haikei.red.jpg */; };
+		2732ADB62643BDA700B7B979 /* tigers.family.gif in Resources */ = {isa = PBXBuildFile; fileRef = 2732ADB42643BDA600B7B979 /* tigers.family.gif */; };
+		2732ADBC2643BE2D00B7B979 /* baseball..gif in Resources */ = {isa = PBXBuildFile; fileRef = 2732ADBB2643BE2D00B7B979 /* baseball..gif */; };
+		2732ADD92643CF0E00B7B979 /* tigers.basictitle.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2732ADD82643CF0E00B7B979 /* tigers.basictitle.jpg */; };
+		2732ADEE2643CFF000B7B979 /* tigers.wallpaper.png in Resources */ = {isa = PBXBuildFile; fileRef = 2732ADED2643CFF000B7B979 /* tigers.wallpaper.png */; };
+		2732ADF92643D9CC00B7B979 /* baseballspiritback.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2732ADF72643D9CC00B7B979 /* baseballspiritback.jpg */; };
+		2732ADFA2643D9CC00B7B979 /* baseballbackground.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2732ADF82643D9CC00B7B979 /* baseballbackground.jpg */; };
+		27D985AE2643AEA300D089A2 /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27D985AD2643AEA300D089A2 /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,8 +66,26 @@
 		27109BEC2640F90200CEF366 /* Game_techTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game_techTests.swift; sourceTree = "<group>"; };
 		27109BEE2640F90200CEF366 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		27109BF32640F90200CEF366 /* Game techUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Game techUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		27109BF72640F90200CEF366 /* Game_techUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game_techUITests.swift; sourceTree = "<group>"; };
-		27109BF92640F90200CEF366 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		272FE7792648087C006F026F /* oyama2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = oyama2.jpg; path = "appsmaterial tiger/oyama2.jpg"; sourceTree = SOURCE_ROOT; };
+		272FE77A2648087C006F026F /* sakamoto3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = sakamoto3.jpg; path = "appsmaterial tiger/sakamoto3.jpg"; sourceTree = SOURCE_ROOT; };
+		272FE77B2648087C006F026F /* marte2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = marte2.jpg; path = "appsmaterial tiger/marte2.jpg"; sourceTree = SOURCE_ROOT; };
+		272FE78226480887006F026F /* kinami4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = kinami4.jpg; path = "appsmaterial tiger/kinami4.jpg"; sourceTree = SOURCE_ROOT; };
+		272FE78326480887006F026F /* itohara5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = itohara5.jpg; path = "appsmaterial tiger/itohara5.jpg"; sourceTree = SOURCE_ROOT; };
+		272FE78426480887006F026F /* itoi2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = itoi2.jpg; path = "appsmaterial tiger/itoi2.jpg"; sourceTree = SOURCE_ROOT; };
+		272FE78B2648088B006F026F /* fujinami3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = fujinami3.jpg; path = "appsmaterial tiger/fujinami3.jpg"; sourceTree = SOURCE_ROOT; };
+		272FE79026480970006F026F /* tigers.title.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = tigers.title.gif; path = "appsmaterial tiger/tigers.title.gif"; sourceTree = SOURCE_ROOT; };
+		272FE79B26480A02006F026F /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = icon.png; path = "appsmaterial tiger/icon.png"; sourceTree = "<group>"; };
+		2731411126440B1E008CDC6A /* satoteru4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = satoteru4.jpg; sourceTree = "<group>"; };
+		2731411226440B1E008CDC6A /* chikamoto4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = chikamoto4.jpg; sourceTree = "<group>"; };
+		2731411326440B1E008CDC6A /* gunkel4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = gunkel4.jpg; sourceTree = "<group>"; };
+		2731411B26440BF8008CDC6A /* haikei.red.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = haikei.red.jpg; sourceTree = "<group>"; };
+		2732ADB42643BDA600B7B979 /* tigers.family.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = tigers.family.gif; sourceTree = "<group>"; };
+		2732ADBB2643BE2D00B7B979 /* baseball..gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = baseball..gif; sourceTree = "<group>"; };
+		2732ADD82643CF0E00B7B979 /* tigers.basictitle.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tigers.basictitle.jpg; sourceTree = "<group>"; };
+		2732ADED2643CFF000B7B979 /* tigers.wallpaper.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tigers.wallpaper.png; sourceTree = "<group>"; };
+		2732ADF72643D9CC00B7B979 /* baseballspiritback.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = baseballspiritback.jpg; sourceTree = "<group>"; };
+		2732ADF82643D9CC00B7B979 /* baseballbackground.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = baseballbackground.jpg; sourceTree = "<group>"; };
+		27D985AD2643AEA300D089A2 /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,9 +116,9 @@
 		27109BC92640F8FD00CEF366 = {
 			isa = PBXGroup;
 			children = (
+				272FE79B26480A02006F026F /* icon.png */,
 				27109BD42640F8FD00CEF366 /* Game tech */,
 				27109BEB2640F90200CEF366 /* Game techTests */,
-				27109BF62640F90200CEF366 /* Game techUITests */,
 				27109BD32640F8FD00CEF366 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -103,9 +140,11 @@
 				27109BD72640F8FD00CEF366 /* SceneDelegate.swift */,
 				27109BD92640F8FD00CEF366 /* ViewController.swift */,
 				27109BDB2640F8FD00CEF366 /* Main.storyboard */,
+				27D985882643AC2E00D089A2 /* GachaResources */,
 				27109BDE2640F90100CEF366 /* Assets.xcassets */,
 				27109BE02640F90100CEF366 /* LaunchScreen.storyboard */,
 				27109BE32640F90100CEF366 /* Info.plist */,
+				27D985AD2643AEA300D089A2 /* ResultViewController.swift */,
 			);
 			path = "Game tech";
 			sourceTree = "<group>";
@@ -119,13 +158,45 @@
 			path = "Game techTests";
 			sourceTree = "<group>";
 		};
-		27109BF62640F90200CEF366 /* Game techUITests */ = {
+		27D985882643AC2E00D089A2 /* GachaResources */ = {
 			isa = PBXGroup;
 			children = (
-				27109BF72640F90200CEF366 /* Game_techUITests.swift */,
-				27109BF92640F90200CEF366 /* Info.plist */,
+				27D985892643AC2E00D089A2 /* background */,
+				27D9858E2643AC2E00D089A2 /* monster */,
 			);
-			path = "Game techUITests";
+			path = GachaResources;
+			sourceTree = "<group>";
+		};
+		27D985892643AC2E00D089A2 /* background */ = {
+			isa = PBXGroup;
+			children = (
+				272FE79026480970006F026F /* tigers.title.gif */,
+				2732ADB42643BDA600B7B979 /* tigers.family.gif */,
+				2732ADED2643CFF000B7B979 /* tigers.wallpaper.png */,
+				2732ADD82643CF0E00B7B979 /* tigers.basictitle.jpg */,
+				2732ADF82643D9CC00B7B979 /* baseballbackground.jpg */,
+				2732ADF72643D9CC00B7B979 /* baseballspiritback.jpg */,
+				2732ADBB2643BE2D00B7B979 /* baseball..gif */,
+			);
+			path = background;
+			sourceTree = "<group>";
+		};
+		27D9858E2643AC2E00D089A2 /* monster */ = {
+			isa = PBXGroup;
+			children = (
+				2731411226440B1E008CDC6A /* chikamoto4.jpg */,
+				2731411326440B1E008CDC6A /* gunkel4.jpg */,
+				272FE78B2648088B006F026F /* fujinami3.jpg */,
+				272FE78326480887006F026F /* itohara5.jpg */,
+				272FE78426480887006F026F /* itoi2.jpg */,
+				272FE78226480887006F026F /* kinami4.jpg */,
+				2731411126440B1E008CDC6A /* satoteru4.jpg */,
+				272FE77B2648087C006F026F /* marte2.jpg */,
+				272FE7792648087C006F026F /* oyama2.jpg */,
+				272FE77A2648087C006F026F /* sakamoto3.jpg */,
+				2731411B26440BF8008CDC6A /* haikei.red.jpg */,
+			);
+			path = monster;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -231,9 +302,28 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				272FE78626480887006F026F /* itohara5.jpg in Resources */,
 				27109BE22640F90100CEF366 /* LaunchScreen.storyboard in Resources */,
+				2731411726440B1E008CDC6A /* gunkel4.jpg in Resources */,
+				272FE77C2648087D006F026F /* oyama2.jpg in Resources */,
 				27109BDF2640F90100CEF366 /* Assets.xcassets in Resources */,
+				272FE78726480887006F026F /* itoi2.jpg in Resources */,
+				272FE79C26480A02006F026F /* icon.png in Resources */,
+				272FE78526480887006F026F /* kinami4.jpg in Resources */,
+				272FE79126480970006F026F /* tigers.title.gif in Resources */,
+				2732ADB62643BDA700B7B979 /* tigers.family.gif in Resources */,
+				2731411C26440BF8008CDC6A /* haikei.red.jpg in Resources */,
+				272FE78C2648088B006F026F /* fujinami3.jpg in Resources */,
 				27109BDD2640F8FD00CEF366 /* Main.storyboard in Resources */,
+				272FE77E2648087D006F026F /* marte2.jpg in Resources */,
+				2732ADD92643CF0E00B7B979 /* tigers.basictitle.jpg in Resources */,
+				2731411526440B1E008CDC6A /* satoteru4.jpg in Resources */,
+				2732ADBC2643BE2D00B7B979 /* baseball..gif in Resources */,
+				272FE77D2648087D006F026F /* sakamoto3.jpg in Resources */,
+				2732ADFA2643D9CC00B7B979 /* baseballbackground.jpg in Resources */,
+				2732ADF92643D9CC00B7B979 /* baseballspiritback.jpg in Resources */,
+				2732ADEE2643CFF000B7B979 /* tigers.wallpaper.png in Resources */,
+				2731411626440B1E008CDC6A /* chikamoto4.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -261,6 +351,7 @@
 				27109BDA2640F8FD00CEF366 /* ViewController.swift in Sources */,
 				27109BD62640F8FD00CEF366 /* AppDelegate.swift in Sources */,
 				27109BD82640F8FD00CEF366 /* SceneDelegate.swift in Sources */,
+				27D985AE2643AEA300D089A2 /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -276,7 +367,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				27109BF82640F90200CEF366 /* Game_techUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
